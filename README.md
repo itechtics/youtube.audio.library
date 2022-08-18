@@ -16,11 +16,11 @@ Under the Free Music tab, you can find thousands of music that are free to use i
 
 From the search box above, you can add different filters to narrow down the ideal track for your video. Here’s what you can do with each of the filters:
 
-**Track title –** This allows you to search for tracks that contain a certain keyword or phrase in the title.
-**Genre –** This allows you to search for tracks based on genres such as alternative and punk, ambient, children’s, cinematic, classical, country and folk, dance and electronic, hip-hop and rap, holiday, jazz and blues, pop, R&B and soul, reggae, and rock.
-**Mood –** This allows you to search for tracks based on the mood that it evokes such as angry, bright, calm, dark, dramatic, funky, happy, inspirational, romantic, or sad.
-**Artist name –** This allows you to search for tracks from specific artists.
-**Duration –** This allows you to find tracks longer than or shorter than a specific duration.
+* **Track title –** This allows you to search for tracks that contain a certain keyword or phrase in the title.
+* **Genre –** This allows you to search for tracks based on genres such as alternative and punk, ambient, children’s, cinematic, classical, country and folk, dance and electronic, hip-hop and rap, holiday, jazz and blues, pop, R&B and soul, reggae, and rock.
+* **Mood –** This allows you to search for tracks based on the mood that it evokes such as angry, bright, calm, dark, dramatic, funky, happy, inspirational, romantic, or sad.
+* **Artist name –** This allows you to search for tracks from specific artists.
+* **Duration –** This allows you to find tracks longer than or shorter than a specific duration.
 
 
 
