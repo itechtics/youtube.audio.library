@@ -1,6 +1,6 @@
 # Youtube audio library
 
-[![Youtube audio library](red2.png)](https://computersolve.com/youtube-audio-library/)
+[![Youtube audio library](red2.png)](https://icncomputer.com/youtube-audio-library/)
 
 
 As the name suggests, the **YouTube Audio Library** is a collection of audio tracks such as music and sound effects that you can use in your videos. These sounds are available to use under a free license, which means that you can use them without having to worry about copyright strikes or demonetization. 
